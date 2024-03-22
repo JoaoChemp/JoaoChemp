@@ -4,7 +4,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://instagram.com/Joao_Chemp)
 
-![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoChemp&show_icons=true&theme=dark)
+![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoChemp&show_icons=true&theme=dracula)
 
 ### Tecnologias que utilizo no dia a dia
 
